@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "../src/App.svelte"
+  ],
+  "sourcesContent": [
+    "<script>\n\texport let name;\n  let cool=\"awesome\";\n</script>\n\n<style>\n\th1 {\n\t\tcolor: pink;\n\t}\n</style>\n\n<h1>Hello, {name}! You are {cool}!</h1>\n"
+  ],
+  "names": [],
+  "mappings": "AAMC,EAAE,eAAC,CAAC,AACH,KAAK,CAAE,IAAI,AACZ,CAAC"
+}
